@@ -11,10 +11,14 @@
             "id": "a6da6f5ffc537056",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#soft-skills",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,9 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6da6f5ffc537056",
+  "active": "eac6b8c621c9c649",
   "lastOpenFiles": [
+    "Google Devops.md",
+    "README.md",
     "Test.md",
-    "Google Devops.md"
+    "Untitled.canvas",
+    "00. learning/Obsidian Guide.md",
+    "00. learning"
   ]
 }
