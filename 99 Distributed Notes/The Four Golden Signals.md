@@ -1,7 +1,5 @@
 ### Latency
 
-
-
 ### Traffic
 
 ### Saturation

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "0.0 Meta Notes/Notes Entrypoint.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -63,8 +63,7 @@
               "title": "Cloud Recommenders"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5
   },
   "right": {
     "id": "e89159e80bc39139",
@@ -236,10 +235,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b96c742e608d6bb9",
+  "active": "09cde57ffb828948",
   "lastOpenFiles": [
-    "99 Distributed Notes/The Four Golden Signals.md",
     "3.1 Balancing change, velocity, and reliability of the service./SLIs SLOs SLAs.md",
+    "Images/Pasted image 20250508234212.png",
+    "Images",
+    "99 Distributed Notes/The Four Golden Signals.md",
     "99 Distributed Notes",
     "0.0 Meta Notes/Notes Entrypoint.md",
     "5.3 Optimizing resource utilization and costs./Cloud Recommenders.md",
@@ -270,10 +271,8 @@
     "4.1 Managing logs.",
     "4.1 Managing logs./Log Collection.md",
     "4.1 Managing logs./Log Optimization.md",
-    "4.1 Managing logs./Log Exporting.md",
     "3.3 Mitigating incident impact on users.",
     "3.2 Managing service lifecycle.",
-    "3.1 Balancing change, velocity, and reliability of the service.",
     "Untitled.canvas"
   ]
 }
