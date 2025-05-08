@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "116ad420f22e3e58",
+        "id": "974432d6b11b8a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "a6da6f5ffc537056",
+            "id": "e2aa54ed5a2b9654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "START HERE.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "START HERE"
             }
           }
         ]
@@ -193,10 +193,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b7abfb14b0c94fcc",
+  "active": "e2aa54ed5a2b9654",
   "lastOpenFiles": [
+    "Designing hierarchy.md",
+    "START HERE.md",
     "Google Devops.md",
-    "README.md",
     "Test.md",
     "Untitled.canvas",
     "00. learning/Obsidian Guide.md",
