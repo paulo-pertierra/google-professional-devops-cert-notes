@@ -1,139 +1,120 @@
 # google-professional-devops-cert-notes
 
-## Section 1: Bootstrapping and maintaining a Google Cloud organization (~15%)
+# Google Cloud Professional Cloud Architect - DevOps Engineer Exam Outline
 
-### [[Designing the overall resource hierarchy for an organization|Designing hierarchy]]
+## Section 1: Bootstrapping and maintaining a Google Cloud organization (~15% of the exam)
 
-- [ ] [[Projects and folders|Projects and folders]]  
-- [ ] [[Shared networking|Shared networking]]  
-- [ ] [[Multi-project monitoring and logging|Multi-project monitoring and logging]]  
-- [ ] [[Identity and Access Management (IAM) roles and organization-level policies|Identity and Access Management (IAM) roles and organization-level policies]]  
-- [ ] [[Creating and managing service accounts|Creating and managing service accounts]]  
-- [ ] [[Organizing resources by using an application-centric approach (e.g., App Hub)|Organizing resources by using an application-centric approach (e.g., App Hub)]]  
+### 1.1 Designing the overall resource hierarchy for an organization.
+- [ ] [[Projects Folders|Projects and folders]]
+- [ ] [[Shared Networking|Shared networking]]
+- [ ] [[Multi Project Monitoring Logging|Multi-project monitoring and logging]]
+- [ ] [[IAM Org Policies|IAM roles and organization level policies]]
+- [ ] [[Service Accounts|Creating and managing service accounts]]
+- [ ] [[App Centric Org|Organizing resources by application centric approach]]
 
-### [[Managing infrastructure|Infra management]]
+### 1.2 Managing infrastructure.
+- [ ] [[IAC Tooling|Infrastructure as code tooling]]
+- [ ] [[Infra Changes Best Practices|Making infrastructure changes using Google recommended practices]]
+- [ ] [[Infra Automation|Automation with scripting]]
 
-- [ ] [[Infrastructure-as-code tooling (e.g., Cloud Foundation Toolkit, Config Connector, Terraform, Helm)|Infrastructure-as-code tooling (e.g., Cloud Foundation Toolkit, Config Connector, Terraform, Helm)]]  
-- [ ] [[Making infrastructure changes using Google-recommended practices and blueprints|Making infrastructure changes using Google-recommended practices and blueprints]]  
-- [ ] [[Automation with scripting (e.g., Python, Go)|Automation with scripting (e.g., Python, Go)]]  
+### 1.3 Designing a CI/CD architecture stack in Google Cloud, hybrid, and multi-cloud environments.
+- [ ] [[Cloud Build CI|Continuous integration with Cloud Build]]
+- [ ] [[Cloud Deploy CD|Continuous delivery with Cloud Deploy]]
+- [ ] [[Third Party CICD Tools|Third party CI CD tooling]]
+- [ ] [[CICD Security|Security of CI CD tooling]]
 
-### [[Designing a CI/CD architecture stack|CI/CD architecture]]
+### 1.4 Managing multiple environments (e.g., staging, production).
+- [ ] [[Env Number Purpose|Determining the number of environments and purpose]]
+- [ ] [[Ephemeral Environments|Managing ephemeral environments]]
+- [ ] [[Env Config Policy|Configuration and policy management]]
+- [ ] [[GKE Enterprise Management|Managing GKE clusters across an enterprise]]
+- [ ] [[Secure Patching Upgrading|Safe and secure patching and upgrading]]
 
-- [ ] [[CI with Cloud Build|CI with Cloud Build]]  
-- [ ] [[CD with Cloud Deploy, Kustomize, Skaffold|CD with Cloud Deploy, Kustomize, Skaffold]]  
-- [ ] [[Jenkins, Git, Argo CD, Packer|Jenkins, Git, Argo CD, Packer]]  
-- [ ] [[Securing CI/CD tooling|Securing CI/CD tooling]]  
+### 1.5 Enabling secure cloud development environments.
+- [ ] [[Cloud Dev Tools|Configuring and managing cloud development environments]]
+- [ ] [[Env Bootstrapping|Bootstrapping environments with tooling]]
+- [ ] [[AI Assisted DevOps|Leveraging AI for development and operations]]
 
-### [[Managing multiple environments|Managing envs]]
+## Section 2: Building and implementing CI/CD pipelines for applications and infrastructure (~27% of the exam)
 
-- [ ] [[Purpose and number of environments|Purpose and number of environments]]  
-- [ ] [[Ephemeral environments|Ephemeral environments]]  
-- [ ] [[Configuration and policy management|Configuration and policy management]]  
-- [ ] [[Managing GKE clusters across an enterprise|Managing GKE clusters across an enterprise]]  
-- [ ] [[Safe and secure patching and upgrading|Safe and secure patching and upgrading]]  
+### 2.1 Designing and managing CI/CD pipelines.
+- [ ] [[Artifact Registry|Artifact management with Artifact Registry]]
+- [ ] [[Hybrid Multi Cloud Deployment|Deployment to hybrid and multi cloud environments]]
+- [ ] [[CICD Triggers|CI CD pipeline triggers]]
+- [ ] [[Pipeline Testing|Testing a new application version]]
+- [ ] [[Deployment Processes|Configuring deployment processes]]
+- [ ] [[Serverless CICD|CI CD of serverless applications]]
+- [ ] [[Infra CICD|Applying CI CD to infrastructure]]
 
-### [[Enabling secure cloud development environments|Cloud dev envs]]
+### 2.2 Implementing CI/CD pipelines.
+- [ ] [[Deployment Auditing Tracking|Auditing and tracking deployments]]
+- [ ] [[Deployment Strategies|Deployment strategies]]
+- [ ] [[CICD Troubleshooting|Troubleshooting and mitigating deployment issues]]
 
-- [ ] [[Cloud Workstations, Cloud Shell|Cloud Workstations, Cloud Shell]]  
-- [ ] [[Bootstrapping environments (e.g., IDE, SDK, custom images)|Bootstrapping environments (e.g., IDE, SDK, custom images)]]  
-- [ ] [[AI assistance (e.g., Cloud Code, Gemini Code Assist)|AI assistance (e.g., Cloud Code, Gemini Code Assist)]]  
+### 2.3 Managing CI/CD configuration and secrets.
+- [ ] [[Key Management|Key management]]
+- [ ] [[Secret Management|Secret management]]
+- [ ] [[Secret Injection|Build versus runtime secret injection]]
 
----
+### 2.4 Securing the CI/CD deployment pipeline.
+- [ ] [[Artifact Registry Security|Vulnerability analysis with Artifact Registry]]
+- [ ] [[Supply Chain Security|Software supply chain security]]
+- [ ] [[Env Based IAM|IAM policies based on environment]]
 
-## Section 2: Building and implementing CI/CD pipelines (~27%)
+## Section 3: Applying site reliability engineering practices to applications (~23% of the exam)
 
-### [[Designing and managing CI/CD pipelines|Designing pipelines]]
+### 3.1 Balancing change, velocity, and reliability of the service.
+- [ ] [[SLIs SLOs SLAs|Defining SLIs SLOs and SLAs]]
+- [ ] [[Error Budgets|Error budgets]]
+- [ ] [[Reliability Cost|Opportunity cost of risk and reliability]]
 
-- [ ] [[Artifact Registry|Artifact Registry]]  
-- [ ] [[Hybrid/multi-cloud deployment (e.g., GKE Enterprise)|Hybrid/multi-cloud deployment (e.g., GKE Enterprise)]]  
-- [ ] [[Pipeline triggers|Pipeline triggers]]  
-- [ ] [[Testing new app versions|Testing new app versions]]  
-- [ ] [[Deployment approvals|Deployment approvals]]  
-- [ ] [[Serverless CI/CD|Serverless CI/CD]]  
-- [ ] [[Infra as CI/CD (e.g., GKE, MIGs, Service Mesh)|Infra as CI/CD (e.g., GKE, MIGs, Service Mesh)]]  
+### 3.2 Managing service lifecycle.
+- [ ] [[Service Management Details|Service management details]]
+- [ ] [[Capacity Planning|Capacity planning]]
+- [ ] [[Autoscaling|Autoscaling]]
 
-### [[Implementing CI/CD pipelines|Implementing pipelines]]
+### 3.3 Mitigating incident impact on users.
+- [ ] [[Traffic Management|Draining redirecting traffic]]
+- [ ] [[Incident Capacity|Adding capacity during incidents]]
+- [ ] [[Rollback Strategies|Rollback strategies]]
 
-- [ ] [[Deployment auditing (e.g., Artifact Registry, Cloud Build, Cloud Deploy, Audit Logs)|Deployment auditing (e.g., Artifact Registry, Cloud Build, Cloud Deploy, Audit Logs)]]  
-- [ ] [[Strategies: canary, blue/green, rolling, traffic splitting|Strategies: canary, blue/green, rolling, traffic splitting]]  
-- [ ] [[Deployment troubleshooting|Deployment troubleshooting]]  
+## Section 4: Implementing observability practices (~20% of the exam)
 
-### [[Managing CI/CD configuration and secrets|Secrets config]]
+### 4.1 Managing logs.
+- [ ] [[Log Collection|Collecting and importing logs]]
+- [ ] [[Log Optimization|Logging optimization]]
+- [ ] [[Log Exporting|Exporting logs]]
+- [ ] [[Log Retention|Retaining logs]]
+- [ ] [[Log Analysis|Analyzing logs]]
+- [ ] [[Sensitive Data Logging|Handling sensitive data in logs]]
 
-- [ ] [[Cloud KMS|Cloud KMS]]  
-- [ ] [[Secret Manager, Certificate Manager|Secret Manager, Certificate Manager]]  
-- [ ] [[Build vs runtime secret injection|Build vs runtime secret injection]]  
+### 4.2 Managing metrics.
+- [ ] [[Metric Collection Analysis|Collecting and analyzing metrics]]
+- [ ] [[Custom Metrics From Logs|Creating custom metrics from logs]]
+- [ ] [[Metrics Explorer|Using Metrics Explorer]]
+- [ ] [[Synthetic Monitors|Creating synthetic monitors]]
 
-### [[Securing the CI/CD deployment pipeline|Securing pipeline]]
+### 4.3 Managing dashboards and alerts.
+- [ ] [[Dashboard Management|Managing dashboards]]
+- [ ] [[Alerting Policies|Configuring alerting policies]]
+- [ ] [[Third Party Alerting|Third party alerting tools]]
 
-- [ ] [[Vulnerability scans with Artifact Registry|Vulnerability scans with Artifact Registry]]  
-- [ ] [[Software supply chain (Binary Authorization, SLSA)|Software supply chain (Binary Authorization, SLSA)]]  
-- [ ] [[IAM per environment|IAM per environment]]  
+## Section 5: Optimizing performance and troubleshooting (~15% of the exam)
 
----
+### 5.1 Troubleshooting issues.
+- [ ] [[Infra Troubleshooting|Infrastructure issues]]
+- [ ] [[App Troubleshooting|Application issues]]
+- [ ] [[CICD Troubleshooting Section|CI CD pipeline issues]]
+- [ ] [[Observability Troubleshooting|Observability issues]]
+- [ ] [[Performance Latency Troubleshooting|Performance and latency issues]]
 
-## Section 3: Applying SRE practices (~23%)
+### 5.2 Implementing debugging tools in Google Cloud.
+- [ ] [[App Instrumentation|Application instrumentation]]
+- [ ] [[Cloud Trace|Cloud Trace]]
+- [ ] [[Error Reporting|Error Reporting]]
 
-### [[Balancing change, velocity, and reliability|Balancing change]]
-
-- [ ] [[SLIs (availability, latency), SLOs, SLAs|SLIs (availability, latency), SLOs, SLAs]]  
-- [ ] [[Error budgets|Error budgets]]  
-- [ ] [[Opportunity cost of reliability (e.g., number of "nines")|Opportunity cost of reliability (e.g., number of "nines")]]  
-
-### [[Managing service lifecycle|Service lifecycle]]
-
-- [ ] [[Onboarding checklist, launch/deployment/retirement plan|Onboarding checklist, launch/deployment/retirement plan]]  
-- [ ] [[Quotas and limits|Quotas and limits]]  
-- [ ] [[Autoscaling: MIGs, Cloud Run, GKE|Autoscaling: MIGs, Cloud Run, GKE]]  
-
-### [[Mitigating incident impact|Incident impact]]
-
-- [ ] [[Traffic redirection|Traffic redirection]]  
-- [ ] [[Adding capacity|Adding capacity]]  
-- [ ] [[Rollbacks|Rollbacks]]  
-
----
-
-## Section 4: Implementing observability (~20%)
-
-### [[Managing logs|Log management]]
-
-- [ ] [[Cloud Logging agent, Audit Logs, Flow Logs, Service Mesh|Cloud Logging agent, Audit Logs, Flow Logs, Service Mesh]]  
-- [ ] [[Optimization: filtering, sampling, exclusions, cost|Optimization: filtering, sampling, exclusions, cost]]  
-- [ ] [[Exporting: BigQuery, Pub/Sub|Exporting: BigQuery, Pub/Sub]]  
-- [ ] [[Log retention|Log retention]]  
-- [ ] [[Sensitive data handling (PII, PHI)|Sensitive data handling (PII, PHI)]]  
-
-### [[Managing metrics|Metric management]]
-
-- [ ] [[Application/platform/network/mesh/hybrid metrics|Application/platform/network/mesh/hybrid metrics]]  
-- [ ] [[Custom metrics from logs|Custom metrics from logs]]  
-- [ ] [[Metrics Explorer|Metrics Explorer]]  
-- [ ] [[Synthetic monitors|Synthetic monitors]]  
-
-### [[Managing dashboards and alerts|Dashboards alerts]]
-
-- [ ] [[Creating/sharing dashboards and playbooks|Creating/sharing dashboards and playbooks]]  
-- [ ] [[Alert policies (SLIs, SLOs, cost)|Alert policies (SLIs, SLOs, cost)]]  
-- [ ] [[Third-party alerting tools|Third-party alerting tools]]  
-
----
-
-## Section 5: Optimizing performance and troubleshooting (~15%)
-
-### [[Troubleshooting issues|Troubleshooting]]
-
-- [ ] [[Infra, application, CI/CD, observability, performance/latency|Infra, application, CI/CD, observability, performance/latency]]  
-
-### [[Implementing debugging tools|Debugging tools]]
-
-- [ ] [[Application instrumentation|Application instrumentation]]  
-- [ ] [[Cloud Trace|Cloud Trace]]  
-- [ ] [[Error Reporting|Error Reporting]]  
-
-### [[Optimizing resource utilization and costs|Cost perf]]
-
-- [ ] [[Observability costs|Observability costs]]  
-- [ ] [[Spot VMs|Spot VMs]]  
-- [ ] [[Cost planning: committed/sustained use, network tiers|Cost planning: committed/sustained use, network tiers]]  
-- [ ] [[Google Cloud recommenders|Google Cloud recommenders]]  
+### 5.3 Optimizing resource utilization and costs.
+- [ ] [[Observability Costs|Observability costs]]
+- [ ] [[Spot VMs|Spot virtual machines VMs]]
+- [ ] [[Infra Cost Planning|Infrastructure cost planning]]
+- [ ] [[Cloud Recommenders|Google Cloud recommenders]]

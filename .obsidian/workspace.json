@@ -11,10 +11,14 @@
             "id": "2d8a83f1ff964540",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "START HERE"
             }
           }
         ]
@@ -192,8 +196,8 @@
   "active": "2d8a83f1ff964540",
   "lastOpenFiles": [
     "Projects and folders.md",
-    "START HERE.md",
     "Designing hierarchy.md",
+    "START HERE.md",
     "Google Devops.md",
     "Test.md",
     "Untitled.canvas",
