@@ -7,8 +7,9 @@ A direct measurement of a service's behavior: frequency of successful probes in 
 Close linear relationship to user experience of reliability
 
 Number of good events / Valid events
+### SLI Categorization
 
-[[The Four Golden Signals]]
+#### [[The Four Golden Signals]]
 
 ## SLO - Service Level Objectives
 
