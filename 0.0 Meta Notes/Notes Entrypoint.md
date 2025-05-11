@@ -64,7 +64,7 @@
 ## Section 3: Applying site reliability engineering practices to applications (~23% of the exam)
 
 ### 3.1 Balancing change, velocity, and reliability of the service.
-- [/] [[SLIs SLOs SLAs|Defining SLIs SLOs and SLAs]]
+- [x] [[SLIs SLOs SLAs|Defining SLIs SLOs and SLAs]]
 - [x] [[Error Budgets|Error budgets]]
 - [ ] [[Reliability Cost|Opportunity cost of risk and reliability]]
 
