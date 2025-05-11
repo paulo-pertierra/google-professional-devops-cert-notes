@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,21 +264,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f3b378d4b90486c9",
+  "active": "6dc8cdb315943a67",
   "lastOpenFiles": [
-    "99 Distributed Notes/Measuring service risk.md",
     "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
-    "Images/Pasted image 20250511163422.png",
+    "99 Distributed Notes/Measuring service risk.md",
     "3.1 Balancing change, velocity, and reliability of the service./SLIs SLOs SLAs.md",
-    "0.0 Meta Notes/Notes Entrypoint.md",
+    "5.3 Optimizing resource utilization and costs./Cloud Recommenders.md",
     "99 Distributed Notes/The Four Golden Signals.md",
+    "Images/Pasted image 20250511163422.png",
+    "0.0 Meta Notes/Notes Entrypoint.md",
     "2.1 Designing and managing CI-CD pipelines./Artifact Registry.md",
     "3.1 Balancing change, velocity, and reliability of the service./Error Budgets.md",
     "0.0 Meta Notes/Obsidian Guide.md",
     "Images/Pasted image 20250508234212.png",
     "Images",
     "99 Distributed Notes",
-    "5.3 Optimizing resource utilization and costs./Cloud Recommenders.md",
     "5.3 Optimizing resource utilization and costs.",
     "5.3 Optimizing resource utilization and costs./Infra Cost Planning.md",
     "5.3 Optimizing resource utilization and costs./Spot VMs.md",
