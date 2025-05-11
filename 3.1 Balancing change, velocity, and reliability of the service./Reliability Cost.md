@@ -8,3 +8,6 @@ By balancing reliability and rapid innovation, there is more overall user happin
 - The cost of redundant machine/compute resources - self explanatory
 - The opportunity cost - engineering resources, devs, engineers, etc. etc.
 
+In SRE, we maintain reliability by: **managing risk**. We are in control. We conceptualize risk as a continuum. Equal importance between higher reliability, and identifying appropriate level of tolerance.
+
+We seek the reliability as a min and a max. If we are not using the error budget, then we are not innovating. If we are falling behind the error b
