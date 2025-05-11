@@ -15,7 +15,9 @@ Number of good events / Valid events
 
 ## SLO - Service Level Objectives
 
-Precise n
+Precise numerical target for system availability.
+
+**Important:** define the lowest level of reliability that is acceptable for users of each service, then state it as SLO. Every service should have availability SLO. Without it, team and stakeholders cant make principled judgments for whether velocity or reliability is prioritize.
 
 Combines SLI with target reliability, for example 99.9%, 99.99%, etc..., per month? per year?
 
@@ -33,6 +35,8 @@ Should have concrete, well-documented consequences. E.g. reduce rate of change, 
 Minimum level of downtime that is promised to provide to customers. If this agreement is broken, compensate consumers.
 
 Alerting thresholds are **much** higher than minimum documented SLA.
+
+This might be expressed in availability numbers: for instance, an availability SLO of 99.9% over one month, with an internal availability SLO of 99.95%. Alternatively, the SLA might only specify a subset of the metrics that make up the internal SLO.
 
 ---
 ## What should we do?
