@@ -1,5 +1,7 @@
 SRE begins with the idea that availability is prerequisite for success. In SRE terms, defines whether a system is able to fulfill its intended function at a point in time.
 
+If you’re building a system from scratch, make sure that SLIs and SLOs are part of your system requirements. If you already have a production system but don’t have them clearly defined, then that’s your highest priority work.
+
 ## SLI - Service Level Indicators
 
 A carefully selected monitoring metrics that measure one aspect of a service's reliability.
