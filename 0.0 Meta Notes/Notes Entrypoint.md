@@ -65,8 +65,8 @@
 
 ### 3.1 Balancing change, velocity, and reliability of the service.
 - [x] [[SLIs SLOs SLAs|Defining SLIs SLOs and SLAs]]
-- [x] [[Error Budgets|Error budgets]]
-- [ ] [[Reliability Cost|Opportunity cost of risk and reliability]]
+- [/] [[Error Budgets|Error budgets]]
+- [/] [[Reliability Cost|Opportunity cost of risk and reliability]]
 
 ### 3.2 Managing service lifecycle.
 - [ ] [[Service Management Details|Service management details]]

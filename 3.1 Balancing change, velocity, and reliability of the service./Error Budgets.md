@@ -1,5 +1,7 @@
 The tool SRE uses to balance service reliability with the pace of innovation. 
 
+Main benefit is there is ommon incentive that allows product development and SRe to find the right balance between innovation and reliability.
+
 The error budget is  - SLO. 1 - 99.9% = 0.1%
 
 If our service receives 1,000,000 requests in four weeks, a 99.9% availability SLO gives us a budget of 1,000 errors over that period.
