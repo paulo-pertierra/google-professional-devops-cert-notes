@@ -49,8 +49,7 @@
               "title": "Reliability Cost"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,10 +222,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b58301f963ab3468",
+  "active": "6465ce5b57bc1a27",
   "lastOpenFiles": [
-    "0.0 Meta Notes/Notes Entrypoint.md",
     "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
+    "0.0 Meta Notes/Notes Entrypoint.md",
     "3.1 Balancing change, velocity, and reliability of the service./Error Budgets.md",
     "5.3 Optimizing resource utilization and costs./Cloud Recommenders.md",
     "99 Distributed Notes/The Four Golden Signals.md",
