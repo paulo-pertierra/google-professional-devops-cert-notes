@@ -1,0 +1,1 @@
+Policies are inherited downward.
