@@ -17,4 +17,6 @@ Different roels
 
 - Basic IAM Role
 - Predefined IAM Role
-- C
+- Custom IAM Role
+	- You need to manage permissions that define the custom role you created
+	- Custom roles can be applied only to project level or org level, NOT folder level.
