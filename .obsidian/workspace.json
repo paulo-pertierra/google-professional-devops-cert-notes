@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Notes Entrypoint"
             }
+          },
+          {
+            "id": "e213ec1db32df958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi Project Monitoring Logging"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +208,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c0b3f451dc905c7",
+  "active": "e213ec1db32df958",
   "lastOpenFiles": [
-    "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
     "0.0 Meta Notes/Notes Entrypoint.md",
+    "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
+    "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
     "0.0 Meta Notes/Google Cloud Storage.md",
     "1.1 Designing the overall resource hierarchy for an organization/Shared Networking.md",
     "3.2 Managing service lifecycle./Autoscaling.md",
