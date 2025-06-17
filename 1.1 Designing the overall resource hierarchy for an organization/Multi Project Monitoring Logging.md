@@ -1,3 +1,5 @@
+See also: [[Cloud Monitoring Data Model]]
+
 # Metric Scope
 ### Advantage of separate:
 - clear separation of concerns
@@ -12,7 +14,9 @@ but
 but
 - permissions will be super broad.
 
-Always create a dedicated project to host monitoring config data, and use metrics scope to set up monitoring. If a project is not needed anymore, all other projects are not impacted because we have an external project
+**Always create a dedicated project** to host monitoring config data, and use metrics scope to set up monitoring. If a project is not needed anymore, all other projects are not impacted because we have an external project
+
+Cloud Logging, Error Reporting, and APM are **NOT** going to rely on Metrics scope!!!
 # Extras:
 ## Typical Cloud Monitoring Architecture
 

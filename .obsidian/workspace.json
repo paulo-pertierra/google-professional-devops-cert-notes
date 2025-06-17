@@ -34,6 +34,76 @@
               "icon": "lucide-file",
               "title": "Multi Project Monitoring Logging"
             }
+          },
+          {
+            "id": "0f3894b5bdc67ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Designing the overall resource hierarchy for an organization/IAM Org Policies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IAM Org Policies"
+            }
+          },
+          {
+            "id": "37eed3c38dfd1bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.1. Distributed Notes/Cloud Monitoring Data Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Monitoring Data Model"
+            }
+          },
+          {
+            "id": "4f4cdba54f264ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Designing the overall resource hierarchy for an organization/Projects Folders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects Folders"
+            }
+          },
+          {
+            "id": "0a1251f94a8c16ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Designing the overall resource hierarchy for an organization/Service Accounts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Service Accounts"
+            }
+          },
+          {
+            "id": "be145c22d4920f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1 Designing the overall resource hierarchy for an organization/Shared Networking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shared Networking"
+            }
           }
         ],
         "currentTab": 1
@@ -89,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,12 +280,17 @@
   },
   "active": "e7e69553d8e59d5a",
   "lastOpenFiles": [
+    "0.1. Distributed Notes/Cloud Monitoring Data Model.md",
+    "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
+    "1.1 Designing the overall resource hierarchy for an organization/IAM Org Policies.md",
+    "1.1 Designing the overall resource hierarchy for an organization/App Centric Org.md",
+    "1.1 Designing the overall resource hierarchy for an organization/Shared Networking.md",
+    "1.1 Designing the overall resource hierarchy for an organization/Service Accounts.md",
+    "1.1 Designing the overall resource hierarchy for an organization/Projects Folders.md",
     "Pasted image 20250617204525.png",
     "0.0 Meta Notes/Notes Entrypoint.md",
-    "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
     "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
-    "0.0 Meta Notes/Google Cloud Storage.md",
-    "1.1 Designing the overall resource hierarchy for an organization/Shared Networking.md",
+    "0.1. Distributed Notes/Google Cloud Storage.md",
     "3.2 Managing service lifecycle./Autoscaling.md",
     "Untitled 1.canvas",
     "Pasted image 20250616163756.png",
@@ -226,23 +300,20 @@
     "Pasted image 20250617083646.png",
     "Pasted image 20250617083626.png",
     "Pasted image 20250617083615.png",
-    "1.1 Designing the overall resource hierarchy for an organization/Service Accounts.md",
     "3.1 Balancing change, velocity, and reliability of the service./Error Budgets.md",
-    "1.1 Designing the overall resource hierarchy for an organization/Projects Folders.md",
     "2025-06-17.md",
     "Untitled.canvas",
-    "1.1 Designing the overall resource hierarchy for an organization/IAM Org Policies.md",
     "3.2 Managing service lifecycle./Service Management Details.md",
     "3.1 Balancing change, velocity, and reliability of the service./SLIs SLOs SLAs.md",
-    "99 Distributed Notes/The Four Golden Signals.md",
+    "0.1. Distributed Notes/The Four Golden Signals.md",
     "5.3 Optimizing resource utilization and costs./Cloud Recommenders.md",
-    "99 Distributed Notes/Measuring service risk.md",
+    "0.1. Distributed Notes/Measuring service risk.md",
     "Images/Pasted image 20250511163422.png",
     "2.1 Designing and managing CI-CD pipelines./Artifact Registry.md",
     "0.0 Meta Notes/Obsidian Guide.md",
     "Images/Pasted image 20250508234212.png",
     "Images",
-    "99 Distributed Notes",
+    "0.1. Distributed Notes",
     "5.3 Optimizing resource utilization and costs.",
     "5.3 Optimizing resource utilization and costs./Infra Cost Planning.md",
     "5.3 Optimizing resource utilization and costs./Spot VMs.md",
@@ -251,7 +322,6 @@
     "5.2 Implementing debugging tools in Google Cloud.",
     "5.2 Implementing debugging tools in Google Cloud./Error Reporting.md",
     "5.2 Implementing debugging tools in Google Cloud./Cloud Trace.md",
-    "5.1 Troubleshooting issues./App Troubleshooting.md",
     "5.1 Troubleshooting issues.",
     "4.3 Managing dashboards and alerts.",
     "4.2 Managing metrics.",
