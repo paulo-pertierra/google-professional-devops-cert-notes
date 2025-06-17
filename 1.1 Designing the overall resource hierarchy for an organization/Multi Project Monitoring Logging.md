@@ -1,5 +1,7 @@
 # Metric Scope
-
+Advantage of separate:
+- clear separation of concerns
+- easie
 
 # Extras:
 ## Typical Cloud Monitoring Architecture
