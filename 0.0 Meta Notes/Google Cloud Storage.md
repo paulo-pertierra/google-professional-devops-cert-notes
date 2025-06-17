@@ -6,3 +6,8 @@ Autoclass: why even bother to ask
 ![[Pasted image 20250617091747.png]]
 ![[Pasted image 20250617091812.png]]![[Pasted image 20250617091829.png]]
 Storage Transfer service: LARGE Data
+
+Transfer Appliance: 1PB data!
+
+
+GCS can import export bigtable, or app engine images, compute engine images, startup scripts
