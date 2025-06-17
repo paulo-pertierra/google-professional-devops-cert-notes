@@ -1,4 +1,8 @@
-# Typical Cloud Monitoring Architecture
+# Metric Scope
+
+
+# Extras:
+## Typical Cloud Monitoring Architecture
 
 3 Layers:
 1. Data collection layer - Collects metrics, logs, and traces from GKE, GCE, App Engine, etc.
@@ -13,4 +17,10 @@ Can still use 3p stuff tho.
 
 Recommended Google Managed Prometheus (GMP) - part of Cloud Mon, GKE cluster and workload metrics available as prom format. Supports PromQL, natively integrated to Prom expression browser.
 
-Ops Agent
+## Ops Agent
+
+Based on OTEL, can collect custom metrics and make available with Cloud Mon. Datadog/NewRelic can be used for integrations.
+
+## Hybrid Monitoring and Logging
+![[Pasted image 20250617204525.png]]
+
