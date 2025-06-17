@@ -1,8 +1,18 @@
 # Metric Scope
-Advantage of separate:
+### Advantage of separate:
 - clear separation of concerns
-- easie
+- easier to automate because init a project is straightforward
+- users/devs are going to get good permission restriction
+but
+-  if app is larger than 1 project, you have limited viewing angle
 
+### Advantage of combined:
+- better anaylsis, more data
+- single pane of glass to view everything
+but
+- permissions will be super broad.
+
+Always create a dedicated project to host monitoring config data, and use metrics scope to set up monitoring. If a project is not needed anymore, all other projects are not impacted because we have an external project
 # Extras:
 ## Typical Cloud Monitoring Architecture
 
