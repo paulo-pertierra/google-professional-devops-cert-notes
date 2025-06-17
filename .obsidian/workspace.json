@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e213ec1db32df958",
+            "id": "e7e69553d8e59d5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ops agent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,7 +209,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e213ec1db32df958",
+  "active": "e7e69553d8e59d5a",
   "lastOpenFiles": [
     "0.0 Meta Notes/Notes Entrypoint.md",
     "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
