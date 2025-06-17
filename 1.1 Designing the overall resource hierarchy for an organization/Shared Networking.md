@@ -4,6 +4,8 @@ VPC Peering can be established to p2p VPCs, but also you can configure shared VP
 
 Shared networking between cloud and on-prem.
 
+## How to connect between cloud and on-prem/another cloud
+
 ### Cloud VPN: Cloud Router makes connection dynamic, lets Google VPC exchange routes using **BGP**.
 
 ### Direct Peering: Puts router in the same public data center as Google Point of Presence. 
@@ -12,6 +14,10 @@ Shared networking between cloud and on-prem.
 
 ### Dedicated Interconnect: Allows 1 or more direct private connections to Google, covered by 99.99% SLA, can be backed by VPN too.
 
-### Partner Interconnect: Useful if Datacenter is physical location that can't reach dedicated interconnect colocation facility, useful if you dont need 10GB/s connection, and can be configured to support mission critical service or apps that can tolerate some downtime. Covered by 99.99% SLA too.
+### Partner Interconnect: Useful if Data center is physical location that can't reach dedicated interconnect colocation facility, useful if you don't need 10 GB/s connection, and can be configured to support mission critical service or apps that can tolerate some downtime. Covered by 99.99% SLA too.
 
-### Cross-Cloud interconnect: dedicated connectivity between GCP and another Cloud provider. Supports adoption of integrated multicloud strategy. 10Gb/s or 100Gb/s
+### Cross-Cloud interconnect: dedicated connectivity between GCP and another Cloud provider. Supports adoption of integrated multi-cloud strategy. 10 Gbps or 100 Gbps
+
+# Important consideration for Firewalls
+
+Every VPC network has two implied firewall rules that block all incoming connections and allow all outgoing connections.
