@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b9cb3d3a200e43",
+        "id": "bf7e5f3821b996a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1c0b3f451dc905c7",
+            "id": "74074b86a626b29a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,105 +22,21 @@
             }
           },
           {
-            "id": "e7e69553d8e59d5a",
+            "id": "547a5a649dab23d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
+                "file": "4.3 Managing dashboards and alerts./Dashboard Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi Project Monitoring Logging"
-            }
-          },
-          {
-            "id": "0f3894b5bdc67ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 Designing the overall resource hierarchy for an organization/IAM Org Policies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IAM Org Policies"
-            }
-          },
-          {
-            "id": "37eed3c38dfd1bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1. Distributed Notes/Cloud Monitoring Data Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud Monitoring Data Model"
-            }
-          },
-          {
-            "id": "bd79d3e7dd325c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.1. Distributed Notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "4f4cdba54f264ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 Designing the overall resource hierarchy for an organization/Projects Folders.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projects Folders"
-            }
-          },
-          {
-            "id": "0a1251f94a8c16ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 Designing the overall resource hierarchy for an organization/Service Accounts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Service Accounts"
-            }
-          },
-          {
-            "id": "be145c22d4920f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 Designing the overall resource hierarchy for an organization/Shared Networking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shared Networking"
+              "title": "Dashboard Management"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,19 +208,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bd79d3e7dd325c2c",
+  "active": "547a5a649dab23d7",
   "lastOpenFiles": [
-    "0.1. Distributed Notes/Cloud Monitoring Data Model.md",
-    "0.1. Distributed Notes/Untitled.md",
-    "Pasted image 20250617210227.png",
-    "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
-    "1.1 Designing the overall resource hierarchy for an organization/IAM Org Policies.md",
-    "1.1 Designing the overall resource hierarchy for an organization/App Centric Org.md",
+    "0.1. Distributed Notes/Cloud Monitoring Dashboards.md",
+    "4.3 Managing dashboards and alerts./Dashboard Management.md",
+    "0.0 Meta Notes/Notes Entrypoint.md",
     "1.1 Designing the overall resource hierarchy for an organization/Shared Networking.md",
     "1.1 Designing the overall resource hierarchy for an organization/Service Accounts.md",
     "1.1 Designing the overall resource hierarchy for an organization/Projects Folders.md",
+    "1.1 Designing the overall resource hierarchy for an organization/Multi Project Monitoring Logging.md",
+    "1.1 Designing the overall resource hierarchy for an organization/IAM Org Policies.md",
+    "0.1. Distributed Notes/Cloud Monitoring Data Model.md",
+    "Pasted image 20250617210227.png",
+    "1.1 Designing the overall resource hierarchy for an organization/App Centric Org.md",
     "Pasted image 20250617204525.png",
-    "0.0 Meta Notes/Notes Entrypoint.md",
     "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
     "0.1. Distributed Notes/Google Cloud Storage.md",
     "3.2 Managing service lifecycle./Autoscaling.md",
@@ -335,7 +252,6 @@
     "5.3 Optimizing resource utilization and costs./Observability Costs.md",
     "5.2 Implementing debugging tools in Google Cloud./App Instrumentation.md",
     "5.2 Implementing debugging tools in Google Cloud.",
-    "5.2 Implementing debugging tools in Google Cloud./Error Reporting.md",
     "5.1 Troubleshooting issues.",
     "4.3 Managing dashboards and alerts.",
     "4.2 Managing metrics.",
