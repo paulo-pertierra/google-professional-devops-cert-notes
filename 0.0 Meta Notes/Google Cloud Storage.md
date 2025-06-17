@@ -9,5 +9,4 @@ Storage Transfer service: LARGE Data
 
 Transfer Appliance: 1PB data!
 
-
 GCS can import export bigtable, or app engine images, compute engine images, startup scripts
