@@ -96,7 +96,7 @@
 
 ### 4.3 Managing dashboards and alerts.
 - [ ] [[Dashboard Management|Managing dashboards]]
-- [ ] [[Alerting Policies|Configuring alerting policies]]
+- [x] [[Alerting Policies|Configuring alerting policies]]
 - [ ] [[Third Party Alerting|Third party alerting tools]]
 
 ## Section 5: Optimizing performance and troubleshooting (~15% of the exam)
