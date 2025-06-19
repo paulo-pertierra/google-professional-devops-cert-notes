@@ -77,8 +77,7 @@
               "title": "Reliability Cost"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,11 +249,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c735b75c22812bb3",
+  "active": "74074b86a626b29a",
   "lastOpenFiles": [
+    "4.1 Managing logs./Log Analysis.md",
     "Pasted image 20250619152550.png",
     "0.0 Meta Notes/Notes Entrypoint.md",
-    "4.1 Managing logs./Log Analysis.md",
     "4.2 Managing metrics./Custom Metrics From Logs.md",
     "Pasted image 20250619150956.png",
     "Pasted image 20250619150945.png",
@@ -267,7 +266,6 @@
     "4.3 Managing dashboards and alerts./Alerting Policies.md",
     "Pasted image 20250619102824.png",
     "Pasted image 20250619101654.png",
-    "Pasted image 20250619101128.png",
     "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
     "3.1 Balancing change, velocity, and reliability of the service./Error Budgets.md",
     "3.1 Balancing change, velocity, and reliability of the service./SLIs SLOs SLAs.md",
