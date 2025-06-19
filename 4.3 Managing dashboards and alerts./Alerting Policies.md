@@ -18,4 +18,11 @@ Good strat to increase precision AND recall
 
 ![[Pasted image 20250619101128.png]]
 
-Prioritize alerts based on customer impact and SLA!!
+Prioritize alerts based on customer impact and SLA!!!
+- Involve humans for critical alerts
+- Use severity level to assess the priority
+- Configure how to triage low and high prio alerts
+
+High prio = Slack, Pub/Sub, PagerDuty, GChat webhook
+Low prio = email, ticket management, logged
+

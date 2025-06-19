@@ -49,8 +49,7 @@
               "title": "Reliability Cost"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,15 +221,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9be591c5c6dea08f",
+  "active": "74074b86a626b29a",
   "lastOpenFiles": [
+    "4.3 Managing dashboards and alerts./Alerting Policies.md",
     "Pasted image 20250619101128.png",
     "Pasted image 20250619101057.png",
     "Pasted image 20250619100919.png",
     "Pasted image 20250619100847.png",
     "Pasted image 20250619100753.png",
     "0.0 Meta Notes/Notes Entrypoint.md",
-    "4.3 Managing dashboards and alerts./Alerting Policies.md",
     "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
     "3.1 Balancing change, velocity, and reliability of the service./Error Budgets.md",
     "3.1 Balancing change, velocity, and reliability of the service./SLIs SLOs SLAs.md",
@@ -251,7 +250,6 @@
     "Pasted image 20250616163756.png",
     "Pasted image 20250617091829.png",
     "Pasted image 20250617091812.png",
-    "Pasted image 20250617091747.png",
     "2025-06-17.md",
     "Untitled.canvas",
     "3.2 Managing service lifecycle./Service Management Details.md",
