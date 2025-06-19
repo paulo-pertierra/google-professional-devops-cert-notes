@@ -251,23 +251,23 @@
           }
         ],
         "direction": "vertical",
-        "x": 3558,
-        "y": 104,
-        "width": 1717,
-        "height": 1072,
-        "maximize": true,
+        "x": 840,
+        "y": 0,
+        "width": 840,
+        "height": 507,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "4dabaf331055cf8e",
+  "active": "74074b86a626b29a",
   "lastOpenFiles": [
+    "4.1 Managing logs./Log Exporting.md",
     "Pasted image 20250619113502.png",
     "Pasted image 20250619113402.png",
     "Pasted image 20250619113312.png",
     "Pasted image 20250619113226.png",
     "0.0 Meta Notes/Notes Entrypoint.md",
-    "4.1 Managing logs./Log Exporting.md",
     "4.3 Managing dashboards and alerts./Alerting Policies.md",
     "Pasted image 20250619102824.png",
     "Pasted image 20250619101654.png",
@@ -275,7 +275,6 @@
     "Pasted image 20250619101057.png",
     "Pasted image 20250619100919.png",
     "Pasted image 20250619100847.png",
-    "Pasted image 20250619100753.png",
     "3.1 Balancing change, velocity, and reliability of the service./Reliability Cost.md",
     "3.1 Balancing change, velocity, and reliability of the service./Error Budgets.md",
     "3.1 Balancing change, velocity, and reliability of the service./SLIs SLOs SLAs.md",
