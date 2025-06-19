@@ -6,3 +6,16 @@ This is maths.
 
 ![[Pasted image 20250619100847.png]]
 
+![[Pasted image 20250619100919.png]]
+
+Imagine 99.9% SLO over 30 days.
+
+![[Pasted image 20250619101057.png]]
+
+Precision inverted correlation to recall
+
+Good strat to increase precision AND recall
+
+![[Pasted image 20250619101128.png]]
+
+Prioritize alerts based on customer impact and SLA!!
