@@ -1,3 +1,19 @@
+## What it is
+
+Alerting policy has:
+- a name - use something descriptive
+- one or more conditions
+- notifications
+- documentation
+can be created via CLI, API, or TF. JSON or YAML format.
+
+**Types of alerting policies:**
+
+![[Pasted image 20250619101654.png]]
+E.g. alert metrics if latency is long
+Log based alerting if specific message occurs in a log. E.g. when human user accesses sec key of service account.
+### Related
+
 SLO is heading towards not being met, or service is down, or something needs to be changed.
 
 This is maths.
