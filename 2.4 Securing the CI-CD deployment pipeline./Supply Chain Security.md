@@ -67,3 +67,11 @@ Builds run on private pools can be submitted cross project; that is builds don't
 Route of builds
 ![[Pasted image 20250622113933.png]]
 
+CB can deploy to 
+
+1. GKE / GKE Enterprise
+2. Cloud Run 
+3. App Engine
+4. Cloud Functions (deprecated)
+5. Compute Engine
+6. Firebase? whut
