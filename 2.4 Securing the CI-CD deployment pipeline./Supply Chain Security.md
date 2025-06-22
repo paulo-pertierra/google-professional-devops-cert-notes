@@ -1,0 +1,9 @@
+Cloud Build SLSA,
+
+https://slsa.dev/spec/v0.1/requirements
+
+Automated build or scripted build defines all build steps in a script, including retrieving the source code. Provides consistency, but also not just code and steps, but also environment should be consistent and trusted.
+
+DO NOT Release local build, NOT SLSA 1 compliant.
+
+Build provenance
