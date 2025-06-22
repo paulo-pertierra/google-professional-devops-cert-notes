@@ -1,12 +1,12 @@
 # What it is
 
-Ensures that your end to end source code to customers are
+Ensures that your end to end source code to customers are tamper-proof. No extra code, no attackers coming in.
 
 https://slsa.dev/spec/v0.1/requirements
 
 ## Cloud Build
 ___
-
+Is SLSA 3 compliant, let's explore.
 
 ### Automated Builds
 
@@ -43,4 +43,13 @@ Integrate CB with Binary Authorization to check for build attestation, and block
 
 ### Customer-managed encryption keys
 
-By default, CMEK working in CB.
+By default, CMEK working in CB. CB CMEK compliance because encrypt build-time persistent disk, and ephemeral key is generated for each build. Key is generated uniquely for **each** build
+
+After build finishes, key is sent to the shadow realm.
+
+### Security Insights panel
+
+Gives high-level overview of secmetrics, can be used to identify and mitigate risks in build process.
+
+Info:
+1. SLSA Level, 
