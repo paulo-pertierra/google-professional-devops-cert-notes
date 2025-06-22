@@ -1,6 +1,12 @@
-Cloud Build SLSA,
+# What it is
+
+Ensures that your end to end source code to customers are
 
 https://slsa.dev/spec/v0.1/requirements
+
+## Cloud Build
+___
+
 
 ### Automated Builds
 
@@ -29,4 +35,12 @@ Helps with
 2. No residual files
 3. No residual environment settings
 4. Secure, as it's always being unused
-5. 
+5. Reduce maintenance overhead, make predictable build even with no caching etc. etc.
+
+### Deployment Policies
+
+Integrate CB with Binary Authorization to check for build attestation, and block deployment of non-CB images. Reduces risk of non-authorized software.
+
+### Customer-managed encryption keys
+
+By default, CMEK working in CB.
