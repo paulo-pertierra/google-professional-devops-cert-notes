@@ -52,4 +52,18 @@ After build finishes, key is sent to the shadow realm.
 Gives high-level overview of secmetrics, can be used to identify and mitigate risks in build process.
 
 Info:
-1. SLSA Level, 
+1. SLSA Level, maturity level.
+2. Vulns, artifact analysis scans for vulnerabilities of the image.
+3. Build details, builder and link to view logs.
+4. Provenance
+
+### Extras
+
+Private pool
+![[Pasted image 20250622113829.png]]
+
+Builds run on private pools can be submitted cross project; that is builds don't have to originate from the same project as the private pool.
+
+Route of builds
+![[Pasted image 20250622113933.png]]
+
